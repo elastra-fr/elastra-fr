@@ -5,7 +5,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 - 🌱 I’m currently learning Networks and Database engineering for backend development.
 - 👯 I’m looking to collaborate on websites ou webapplications projects.
-- 📫 How to reach me: (eldn.dev@gmail.com)
+- 📫 How to reach me: eldn.dev@gmail.com
 
 
 ## Skills
@@ -17,5 +17,5 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - MariaDB, MySql
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/emmanuel-ldn)
-- [email](eldn.dev@gmail.com)
+- [LinkedIn] www.linkedin.com/in/emmanuel-ldn
+- [email] eldn.dev@gmail.com
