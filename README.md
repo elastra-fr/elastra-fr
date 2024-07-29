@@ -23,3 +23,10 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 ## Connect with Me
 - [LinkedIn] www.linkedin.com/in/emmanuel-ldn
 - [email] eldn.dev@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elastra-fr)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elastra-fr)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=elastra-fr)  
+
