@@ -4,7 +4,7 @@
 I'm a passionate developer with a love for coding and creating innovative solutions. 
 
 - 🌱 I’m currently learning Networks and Database engineering for backend development.
-- 👯 I’m looking to collaborate on websites ou webapplications projects.
+- 👯 I’m looking to collaborate on websites or webapplications projects.
 - 📫 How to reach me: eldn.dev@gmail.com
 - You can check out my website at https://www.timber-dev.net/
 
