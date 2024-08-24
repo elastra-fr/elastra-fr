@@ -5,7 +5,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 - 🌱 I’m currently learning Networks and Database engineering for backend development.
 - 👯 I’m looking to collaborate on websites or webapplications projects.
-- 📫 How to reach me: eldn.dev@gmail.com
+- 📫 How to reach me: emmanuel@eldn-dev.com
 - You can check out my website at https://www.eldn-dev.com/
 - You can check out my blog at https://www.timber-dev.net/
 
