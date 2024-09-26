@@ -3,11 +3,12 @@
 ## About Me
 I'm a passionate developer with a love for coding and creating innovative solutions. 
 
-- 🌱 I’m currently learning Networks and Database engineering for backend development.
+- 🌱 I’m currently learning SEO Super Powers.
 - 👯 I’m looking to collaborate on websites or webapplications projects.
 - 📫 How to reach me: emmanuel@eldn-dev.com
 - You can check out my website at https://www.eldn-dev.com/
 - You can check out my blog at https://www.timber-dev.net/
+- I'm OPQUAST Certified - Expert Level https://oqs.li/FJYS1T
 
 
 ## Skills
