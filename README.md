@@ -19,6 +19,8 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - PHP
 - Symfony
 - MariaDB, MySql
+- Python
+- FastAPI
 - RestFul APIs
 - Translation
 - Eco-design and Accessibility
