@@ -29,6 +29,11 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - [LinkedIn] www.linkedin.com/in/emmanuel-ldn
 - [email] emmanuel@eldn-dev.com
 
+## Fuel my Code with Coffee !
+
+Hi there! Every dev needs coffee, right? If my code or projects have helped you out, you can keep me caffeinated by buying me a coffee. It’s the fuel that keeps these lines of code coming. Thanks.
+https://buymeacoffee.com/emmanuellaq5
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elastra-fr)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elastra-fr)](https://github.com/anuraghazra/github-readme-stats)
