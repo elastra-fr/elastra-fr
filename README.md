@@ -40,6 +40,7 @@ https://buymeacoffee.com/emmanuellaq5
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=elastra-fr)  
 
-![visits](https://img.shields.io/badge/dynamic/json?color=success&label=visits&query=value&url=https://api.countapi.xyz/hit/elastra-fr.elastra-fr)
+![Visits](https://api.countapi.xyz/hit/elastra-fr.elastra-fr)
+
 
 
