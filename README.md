@@ -16,6 +16,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - REACT
 - Next.js
 - Wordpress
+- WooCommerce
 - PHP
 - Symfony
 - MariaDB, MySql
