@@ -19,7 +19,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - WooCommerce
 - PHP
 - Symfony
-- MariaDB, MySql
+- MariaDB, MySql, PostgreSQL
 - Python
 - FastAPI
 - RestFul APIs
