@@ -13,6 +13,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## Skills
 - Javascript, HTML, CSS
+- Tailwind
 - REACT
 - Next.js
 - Wordpress
