@@ -7,7 +7,6 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - 👯 I’m looking to collaborate on websites or webapplications projects.
 - 📫 How to reach me: emmanuel@eldn-dev.com
 - You can check out my website at https://www.eldn-dev.com/
-- You can check out my blog at https://www.timber-dev.net/
 - I'm OPQUAST Certified - Expert Level https://oqs.li/FJYS1T
 
 
@@ -40,7 +39,7 @@ https://buymeacoffee.com/emmanuellaq5
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elastra-fr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=elastra-fr)  
+
 
 
 
