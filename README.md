@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate developer with a love for coding and creating innovative solutions. 
 
-- 🌱 I’m currently improving python backend and PostgreSQL skills
+- 🌱 I’m currently improving UI/UX skills
 - 👯 I’m looking to collaborate on websites or webapplications projects.
 - 📫 How to reach me: emmanuel@eldn-dev.com
 - You can check out my website at https://www.eldn-dev.com/
