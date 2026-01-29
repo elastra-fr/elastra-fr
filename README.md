@@ -1,7 +1,6 @@
 # Hi there, I'm Emmanuel 👋
 
 ## About Me
-I'm a passionate developer with a love for coding and creating innovative solutions. 
 
 - 🌱 I’m currently improving Linux admin skills
 - 👯 I’m looking to collaborate on websites or webapplications projects.
@@ -25,6 +24,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 - RestFul APIs
 - Translation
 - Eco-design and Accessibility
+- Linux Admin
 
 ## Connect with Me
 - [LinkedIn] www.linkedin.com/in/emmanuel-ldn
