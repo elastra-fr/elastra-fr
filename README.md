@@ -13,6 +13,7 @@
 - Javascript, HTML, CSS
 - Tailwind
 - REACT
+- JQuery Legacy Code maintenance
 - Next.js
 - Wordpress
 - WooCommerce
