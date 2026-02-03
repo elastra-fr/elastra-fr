@@ -10,7 +10,7 @@
 
 
 ## Skills
-- Javascript, HTML, CSS
+- Javascript/Typescript, HTML, CSS
 - Tailwind
 - REACT
 - JQuery Legacy Code maintenance
