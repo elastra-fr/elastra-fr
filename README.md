@@ -12,6 +12,7 @@
 ## Skills
 - Javascript/Typescript, HTML, CSS
 - Tailwind
+- Astro
 - REACT
 - JQuery Legacy Code maintenance
 - Next.js
