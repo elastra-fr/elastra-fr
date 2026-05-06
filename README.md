@@ -17,7 +17,6 @@
 - JQuery Legacy Code maintenance
 - Next.js
 - Wordpress
-- WooCommerce
 - PHP
 - Symfony
 - MariaDB, MySql, PostgreSQL
@@ -27,6 +26,8 @@
 - Translation
 - Eco-design and Accessibility
 - Linux Admin
+
+I use Fedora BTW.
 
 ## Connect with Me
 - [LinkedIn] www.linkedin.com/in/emmanuel-ldn
